@@ -16,5 +16,4 @@ function callback(){
     .then(res => res.json())
     .then(json => outputText.innerText = json.contents.translated) 
     console.log("clicked")
-    .catch(errorHandler)
 })
