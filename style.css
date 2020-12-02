@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+}
 
 body{
     background-image: url("https://img.freepik.com/free-photo/dark-green-matt-suede-fabric-velvet-texture_113767-224.jpg?size=626&ext=jpg");
@@ -64,17 +68,20 @@ button{
 footer {
     background-color: ivory;
     text-decoration: none;
-    padding: 0.5rem;
+    padding: 1rem;
     margin-top: 10rem;
 }
 
 h2 {
     text-align: center;
+    padding: 0.5rem;
 }
 
 a{
     text-decoration: none;
     margin: 1rem;
+    padding: 0.3rem;
+    color: olivedrab;
 }
 
 ul{
