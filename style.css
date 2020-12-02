@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+
+body{
+    background-image: url("https://img.freepik.com/free-photo/dark-green-matt-suede-fabric-velvet-texture_113767-224.jpg?size=626&ext=jpg");
+    font-family: 'Architects Daughter', cursive;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+h1 {
+    color: ivory;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+textarea{
+    display: block;
+    width: 90%;
+    height: 10vh;
+    margin: auto;
+    padding: 1rem;
+    background-color: rgb(106, 155, 118);
+}
+
+::placeholder {
+    color: ivory;
+}
+
+#output-box {
+    border: 1px solid black;
+    width: 90%;
+    height: 10vh;
+    margin: auto;
+    padding: 1rem;
+    display: block;
+    background-color: rgb(106, 155, 118);
+    
+}
+#output-txt {
+    color : rgb(106, 155, 118);
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+}
+button{
+    padding: 0.5rem;
+    border-radius: 0.4rem 1px;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: block;
+    background-color: rgb(74, 107, 74);
+    font-weight: bolder;
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+footer {
+    background-color: ivory;
+    text-decoration: none;
+    padding: 0.5rem;
+    margin-top: 10rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    margin: 1rem;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
