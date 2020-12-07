@@ -1,2 +1,2 @@
 # yoda-talks
- translator from english to yoda
+ In this app we have a translator from english to yoda using an API from funtranslation.com
